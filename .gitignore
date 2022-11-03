@@ -1,0 +1,6 @@
+extra
+log
+weights
+.idea
+__pycache__
+.DS_Store
